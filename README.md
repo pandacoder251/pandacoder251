@@ -61,4 +61,4 @@
 
 ---
 
-<p align="center">🌷 *"Building Imaginations With Every Bit"* 🌷</p>
+<p align="center">**🌷 "Building Imaginations With Every Bit" 🌷**</p>
