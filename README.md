@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Welcome" width="300"/>
 </p>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6f/ed/3e/6fed3efb2f36e8e1c3c2a4f8c046ebd0.gif" width="200px" alt="aesthetic gif">
+  <img src="https://i.pinimg.com/originals/6f/ed/3e/6fed3efb2f36e8e1c3c2a4f8c046ebd0.gif" width="200px">
 </p>
 
 ---
