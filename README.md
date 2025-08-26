@@ -10,8 +10,8 @@
 
 ### 🌸 About Me
 - 🎓 CSE Undergrad at **ITER SOA University** (2nd Year)  
-- 💻 Passionate about **Learning New Tech Skills**  
-- ✍️ I also love **content & blog writing**  
+- 💻 Passionate about **learning new tech skills**  
+- ✍️ Enthusiastic about **content & blog writing**  
 - 🎨 Creative with **Canva & design tools**  
 - 🤝 Skilled in **teamwork & communication**  
 
@@ -25,9 +25,27 @@
 ---
 
 ### 🌿 Currently Exploring
-- 🌐 Learning **Frontend [ HTML, JavaScript, CSS, etc.]** 
-- 🎨 Building my **Chat Bot**  
+- 🌐 Frontend Development (**HTML, CSS, JavaScript**)  
+- 🤖 Building my **Chat Bot**  
 - 📚 **Data Structures & Algorithms in Java**  
+
+---
+
+### 💻 Projects
+
+<p align="center">
+  <a href="https://github.com/pandacoder251/agromed-frontend" target="_blank">
+    <img src="https://media.tenor.com/B3TstjyK9dYAAAAC/pots-plants.gif" width="280px" alt="AgroMed Frontend GIF">
+  </a><br>
+  🌱 <b>AgroMed Frontend</b> – A smart web app to help farmers detect crop diseases instantly 🌾
+</p>
+
+<p align="center">
+  <a href="https://github.com/pandacoder251/Plagarismbot" target="_blank">
+    <img src="https://media4.giphy.com/avatars/acetech/RK67baKq9A79.gif" width="200px" alt="Plagiarism Bot GIF">
+  </a><br>
+  🕵️‍♂️ <b>Plagiarism Bot</b> – A Python-based bot for detecting plagiarism in texts
+</p>
 
 ---
 
