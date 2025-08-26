@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hey there, I'm Pousali ✨</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Welcomd" width="300"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Welcome" width="300"/>
 </p>
 <p align="center">
   <img src="https://i.pinimg.com/originals/6f/ed/3e/6fed3efb2f36e8e1c3c2a4f8c046ebd0.gif" width="200px" alt="aesthetic gif">
@@ -25,32 +25,22 @@
 ---
 
 ### 🌿 Currently Exploring
-- 🌐 Learning **Frontend [ HTML , Javascript , Css , etc]** 
+- 🌐 Learning **Frontend [ HTML, JavaScript, CSS, etc.]** 
 - 🎨 Building my **Chat Bot**  
 - 📚 **Data Structures & Algorithms in Java**  
 
 ---
 
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PousaliDolai&show_icons=true&theme=rose_pine" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PousaliDolai&theme=rose_pine" alt="GitHub Streak" />
-</p>
-
----
-
-
 ### 🌸 Connect With Me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/pousali-dolai-b8971a344/]"><img src="https://img.shields.io/badge/LinkedIn-%23f5f5f5.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://twitter.com/your-twitter"><img 
-  <a href="mailto:pousalidolai59@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23f5f5f5.svg?&style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+  <a href="https://www.linkedin.com/in/pousali-dolai-b8971a344/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23f5f5f5.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:pousalidolai59@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23f5f5f5.svg?&style=for-the-badge&logo=gmail&logoColor=D14836" />
+  </a>
 </p>
 
 ---
 
-<p align="center">🌷 *"Building Imaginations With Every Bits"* 🌷</p>
+<p align="center">🌷 *"Building Imaginations With Every Bit"* 🌷</p>
