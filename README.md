@@ -9,11 +9,11 @@
 ---
 
 ### 🌸 About Me
-- 🎓 CSE Undergrad at **ITER SOA University** (2nd Year)  
+- 🎓 Btech-CSE Undergrad at **INSTITUTE OF TECHNICAL EDUCATION AND RESEARCH SIKSHA 'O' ANUSANDHAN University** (2nd Year) 
 - 💻 Passionate about **learning new tech skills**  
 - ✍️ Enthusiastic about **content & blog writing**  
 - 🎨 Creative with **Canva & design tools**  
-- 🤝 Skilled in **teamwork & communication**  
+- 🤝 Skilled in **teamwork & communication**
 
 ---
 
@@ -57,7 +57,9 @@
 <p align ="center">
   <a href = "https://github.com/pandacoder251/DigitalClock-with-alarm-setting-function" target = "blank">
     <img src = "https://media.tenor.com/eD4euYmWCx8AAAAi/alarm-cute.gif" width = "200px" alt = "DigitalClockwithAlarm">
-
+  </a><br>
+ ⏰ <b>Digital Clock with Alarm Setting Functionality</b> – A Java based project to set alarms
+  
 ---
 
 ### 🌸 Connect With Me
