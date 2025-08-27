@@ -24,6 +24,13 @@
 
 ---
 
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandacoder251&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
 ### 🌿 Currently Exploring
 - 🌐 Frontend Development (**HTML, CSS, JavaScript**)  
 - 🤖 Building my **Chat Bot**  
@@ -47,18 +54,25 @@
   🕵️‍♂️ <b>Plagiarism Bot</b> – A Python-based bot for detecting plagiarism in texts
 </p>
 
+<p align ="center">
+  <a href = "https://github.com/pandacoder251/DigitalClock-with-alarm-setting-function" target = "blank">
+    <img src = "https://media.tenor.com/eD4euYmWCx8AAAAi/alarm-cute.gif" width = "200px" alt = "DigitalClockwithAlarm">
+
 ---
 
 ### 🌸 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/pousali-dolai-b8971a344/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23f5f5f5.svg?&style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <a href="https://www.linkedin.com/in/pousali-dolai-b8971a344/" target="_blank">
+    <img src="https://png.pngtree.com/png-clipart/20190613/original/pngtree-linked-in-icon-png-image_3584856.jpg" width="40px" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:pousalidolai59@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23f5f5f5.svg?&style=for-the-badge&logo=gmail&logoColor=D14836" />
+    <img src="https://mailarrow.com/wp-content/uploads/2023/12/pngwing.com_.png" width="40px" alt="Email"/>
   </a>
 </p>
 
 ---
+
+
 
 <h4 align="center">🌷 "Building Imaginations With Every Bit" 🌷</h4>
