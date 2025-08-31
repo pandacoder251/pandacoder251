@@ -33,48 +33,46 @@
 
 ### 🌿 Currently Exploring
 - 🌐 Frontend Development (**HTML, CSS, JavaScript**)  
-- 🤖 Building my **Chat Bot**  
+- 🤖 Building my **Chat Bot** using Python
 - 📚 **Data Structures & Algorithms in Java**  
 
 ---
 
 ### 💻 Projects
 
-<p align="center">
-  <a href="https://github.com/pandacoder251/agromed-frontend" target="_blank">
-    <img src="https://media.tenor.com/B3TstjyK9dYAAAAC/pots-plants.gif" width="280px" alt="AgroMed Frontend GIF">
-  </a><br>
-  🌱 <b>AgroMed Frontend</b> – A smart web app to help farmers detect crop diseases instantly 🌾
-</p>
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; max-width: 900px; margin: auto;">
 
-<p align="center">
-  <a href="https://github.com/pandacoder251/Plagarismbot" target="_blank">
-    <img src="https://media4.giphy.com/avatars/acetech/RK67baKq9A79.gif" width="200px" alt="Plagiarism Bot GIF">
-  </a><br>
-  🕵️‍♂️ <b>Plagiarism Bot</b> – A Python-based bot for detecting plagiarism in texts
-</p>
+  <div align="center">
+    <img src="https://media3.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="Frontend Projects" width="180" style="border-radius: 8px;">
+    <br>
+     <h4>FRONTEND PROJECTS</h4>
+  </div>
 
-<p align ="center">
-  <a href = "https://github.com/pandacoder251/DigitalClock-with-alarm-setting-function" target = "blank">
-    <img src = "https://media.tenor.com/eD4euYmWCx8AAAAi/alarm-cute.gif" width = "200px" alt = "DigitalClockwithAlarm">
-  </a><br>
- ⏰ <b>Digital Clock with Alarm Setting Functionality</b> – A Java based project to set alarms
-  
+  <div align="center">
+    <img src="https://media4.giphy.com/avatars/acetech/RK67baKq9A79.gif" alt="Plagiarism Bot" width="180" style="border-radius: 8px;"><br>
+    <h4><a href="https://github.com/pandacoder251/Plagarismbot" target="_blank">PYTHON PROJECTS</a></h4>
+  </div>
+
+  <div align="center">
+    <img src="https://media.tenor.com/eD4euYmWCx8AAAAi/alarm-cute.gif" alt="Java Digital Clock" width="180" style="border-radius: 8px;">
+    <br>
+    <h4><a href="https://github.com/pandacoder251/DigitalClock-with-alarm-setting-function" target="_blank">JAVA PROJECTS</a></h4>
+  </div>
+
+</div>
+
 ---
 
 ### 🌸 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pousali-dolai-b8971a344/" target="_blank">
-    <img src="https://png.pngtree.com/png-clipart/20190613/original/pngtree-linked-in-icon-png-image_3584856.jpg" width="40px" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
   <a href="mailto:pousalidolai59@gmail.com">
-    <img src="https://mailarrow.com/wp-content/uploads/2023/12/pngwing.com_.png" width="40px" alt="Email"/>
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
-
-
 
 <h4 align="center">🌷 "Building Imaginations With Every Bit" 🌷</h4>
