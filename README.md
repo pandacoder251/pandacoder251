@@ -45,7 +45,7 @@
   <div align="center">
     <img src="https://media3.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="Frontend Projects" width="180" style="border-radius: 8px;">
     <br>
-     <h4><a href="https://github.com/pandacoder251/frontend/tree/main" target="_blank">FRONTEND PROJECTS</h4>
+     <h4><a href="https://github.com/pandacoder251/Shopsy" target="_blank">FRONTEND PROJECTS</h4>
   </div>
 
   <div align="center">
