@@ -1,4 +1,4 @@
-#✨ Hey there, I'm Pousali ✨
+# ✨ Hey there, I'm Pousali ✨
 
 <p align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Welcome" width="300"/>
@@ -36,7 +36,7 @@
 
 ### 🌿 Currently Exploring
 - 🌐 **Frontend Development** (HTML, CSS, JavaScript)  
-- 🤖 Building a **Chat Bot** in Python  
+- 🤖 Learning about **Gen-AI and AI foundation** 
 - 📚 **Data Structures & Algorithms** in Java  
 
 ---
