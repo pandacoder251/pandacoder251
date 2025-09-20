@@ -1,19 +1,17 @@
-<h1 align="center">✨ Hey there, I'm Pousali ✨</h1>
+#✨ Hey there, I'm Pousali ✨
+
 <p align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Welcome" width="300"/>
-</p>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6f/ed/3e/6fed3efb2f36e8e1c3c2a4f8c046ebd0.gif" width="200px">
 </p>
 
 ---
 
 ### 🌸 About Me
-- 🎓 Btech-CSE Undergrad at **INSTITUTE OF TECHNICAL EDUCATION AND RESEARCH SIKSHA 'O' ANUSANDHAN University** (2nd Year) 
-- 💻 Passionate about **learning new tech skills**  
-- ✍️ Enthusiastic about **content & blog writing**  
+- 🎓 **B.Tech CSE** undergrad at *Institute of Technical Education & Research, Siksha ‘O’ Anusandhan University* (2nd Year)  
+- 💻 Passionate about **learning new technologies**  
+- ✍️ Enthusiastic **content & blog writer**  
 - 🎨 Creative with **Canva & design tools**  
-- 🤝 Skilled in **teamwork & communication**
+- 🤝 Strong in **teamwork & communication**
 
 ---
 
@@ -24,41 +22,39 @@
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pandacoder251&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=pandacoder251&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  </br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pandacoder251&theme=dark&hide_border=false&layout=compact)</br>
+![](https://nirzak-streak-stats.vercel.app/?user=pandacoder251&theme=dark&hide_border=false)</br>
+
+### 🏆 Trophies & Extras
+![](https://github-profile-trophy.vercel.app/?username=pandacoder251&theme=radical&no-frame=false&margin-w=4)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+![](https://github-contributor-stats.vercel.app/api?username=pandacoder251&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 ### 🌿 Currently Exploring
-- 🌐 Frontend Development (**HTML, CSS, JavaScript**)  
-- 🤖 Building my **Chat Bot** using Python
-- 📚 **Data Structures & Algorithms in Java**  
+- 🌐 **Frontend Development** (HTML, CSS, JavaScript)  
+- 🤖 Building a **Chat Bot** in Python  
+- 📚 **Data Structures & Algorithms** in Java  
 
 ---
 
-### 💻 Projects
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; max-width: 900px; margin: auto;">
-
-  <div align="center">
+### 💻 Featured Projects
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; max-width: 900px;">
+  <div>
     <img src="https://media3.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="Frontend Projects" width="180" style="border-radius: 8px;">
-    <br>
-     <h4><a href="https://github.com/pandacoder251/Shopsy" target="_blank">FRONTEND PROJECTS</h4>
+    <h4><a href="https://github.com/pandacoder251/Shopsy" target="_blank">Frontend Projects</a></h4>
   </div>
-
-  <div align="center">
-    <img src="https://media4.giphy.com/avatars/acetech/RK67baKq9A79.gif" alt="Plagiarism Bot" width="180" style="border-radius: 8px;"><br>
-    <h4><a href="https://github.com/pandacoder251/Plagarismbot" target="_blank">PYTHON PROJECTS</a></h4>
+  <div>
+    <img src="https://media4.giphy.com/avatars/acetech/RK67baKq9A79.gif" alt="Python Projects" width="180" style="border-radius: 8px;">
+    <h4><a href="https://github.com/pandacoder251/Plagarismbot" target="_blank">Python Projects</a></h4>
   </div>
-
-  <div align="center">
-    <img src="https://media.tenor.com/eD4euYmWCx8AAAAi/alarm-cute.gif" alt="Java Digital Clock" width="180" style="border-radius: 8px;">
-    <br>
-    <h4><a href="https://github.com/pandacoder251/DigitalClock-with-alarm-setting-function" target="_blank">JAVA PROJECTS</a></h4>
+  <div>
+    <img src="https://media.tenor.com/eD4euYmWCx8AAAAi/alarm-cute.gif" alt="Java Projects" width="180" style="border-radius: 8px;">
+    <h4><a href="https://github.com/pandacoder251/DigitalClock-with-alarm-setting-function" target="_blank">Java Projects</a></h4>
   </div>
-
 </div>
 
 ---
@@ -75,4 +71,7 @@
 
 ---
 
+
 <h4 align="center">🌷 "Building Imaginations With Every Bit" 🌷</h4>
+
+[![](https://visitcount.itsvg.in/api?id=pandacoder251&icon=0&color=0)](https://visitcount.itsvg.in)
