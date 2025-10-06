@@ -10,14 +10,14 @@
 - 🎓 **B.Tech CSE** undergrad at *Institute of Technical Education & Research, Siksha ‘O’ Anusandhan University* (2nd Year)  
 - 💻 Passionate about **learning new technologies**  
 - ✍️ Enthusiastic **content & blog writer**  
-- 🎨 Creative with **Canva & design tools**  
+- 🎨 Creative with **Canva,  Ibis PaintX& design tools**  
 - 🤝 Strong in **teamwork & communication**
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,tailwind,github,vscode,eclipse,netlify,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,tailwind,github,vscode,eclipse,netlify,react,nextjs"/>
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ---
 
 ### 🌿 Currently Exploring
-- 🌐 **Frontend Development** (HTML, CSS, JavaScript)  
+- 🌐 **Web Development** 
 - 🤖 Learning about **Gen-AI and AI foundation** 
 - 📚 **Data Structures & Algorithms** in Java  
 
