@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,tailwind,github,vscode,eclipse,netlify,react,nextjs"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,tailwind,github,git,vscode,eclipse,netlify,react,nextjs,nodejs"/>
 </p>
 
 ### 📊 GitHub Stats
