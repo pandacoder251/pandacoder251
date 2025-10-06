@@ -8,7 +8,7 @@
 - 🎓 **B.Tech CSE** undergrad at *Institute of Technical Education & Research, Siksha ‘O’ Anusandhan University* (2nd Year)  
 - 💻 Passionate about **learning new technologies**  
 - ✍️ Enthusiastic **content & blog writer**  
-- 🎨 Creative with **Canva,  Ibis PaintX& design tools**  
+- 🎨 Creative with **Canva,  Ibis PaintX & design tools**  
 - 🤝 Strong in **teamwork & communication**
 
 ### 🛠️ Tech Stack
