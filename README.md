@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" alt="Welcome" width="300"/>
 </p>
 
----
-
 ### 🌸 About Me
 - 🎓 **B.Tech CSE** undergrad at *Institute of Technical Education & Research, Siksha ‘O’ Anusandhan University* (2nd Year)  
 - 💻 Passionate about **learning new technologies**  
@@ -13,14 +11,10 @@
 - 🎨 Creative with **Canva,  Ibis PaintX& design tools**  
 - 🤝 Strong in **teamwork & communication**
 
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,tailwind,github,vscode,eclipse,netlify,react,nextjs"/>
 </p>
-
----
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=pandacoder251&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  </br>
@@ -29,17 +23,12 @@
 
 ### 🏆 Trophies & Extras
 ![](https://github-profile-trophy.vercel.app/?username=pandacoder251&theme=radical&no-frame=false&margin-w=4)  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 ![](https://github-contributor-stats.vercel.app/api?username=pandacoder251&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ### 🌿 Currently Exploring
 - 🌐 **Web Development** 
 - 🤖 Learning about **Gen-AI and AI foundation** 
 - 📚 **Data Structures & Algorithms** in Java  
-
----
 
 ### 🌸 Connect With Me
 <p align="center">
