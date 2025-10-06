@@ -41,24 +41,6 @@
 
 ---
 
-### 💻 Featured Projects
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; max-width: 900px;">
-  <div>
-    <img src="https://media3.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" alt="Frontend Projects" width="180" style="border-radius: 8px;">
-    <h4><a href="https://github.com/pandacoder251/frontend" target="_blank">Frontend Projects</a></h4>
-  </div>
-  <div>
-    <img src="https://media4.giphy.com/avatars/acetech/RK67baKq9A79.gif" alt="Python Projects" width="180" style="border-radius: 8px;">
-    <h4><a href="https://github.com/pandacoder251/Plagarismbot" target="_blank">Python Projects</a></h4>
-  </div>
-  <div>
-    <img src="https://media.tenor.com/eD4euYmWCx8AAAAi/alarm-cute.gif" alt="Java Projects" width="180" style="border-radius: 8px;">
-    <h4><a href="https://github.com/pandacoder251/DigitalClock-with-alarm-setting-function" target="_blank">Java Projects</a></h4>
-  </div>
-</div>
-
----
-
 ### 🌸 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/pousali-dolai-b8971a344/" target="_blank">
