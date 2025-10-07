@@ -16,13 +16,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,tailwind,github,git,vscode,eclipse,netlify,react,nextjs,nodejs,expressjs"/>
 </p>
 
-## 📖 Extra Studies
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Google_Developer_Groups_logo.png" alt="GDG" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Oracle_logo.svg" alt="Oracle" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Unlox_logo_placeholder.png" alt="Unlox" width="40"/>
-</p>
-
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=pandacoder251&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  </br>
